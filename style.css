@@ -34,3 +34,6 @@ span{
     font-size: 20px;
     padding-left: 170px;
 }
+footer{
+    position: fixed; bottom: 2%; left: 46%;
+}
